@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1495226340 source:c:\users\a11511bcc023\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pagina.h"
+	"ged.h"
+	"ga.h"
+	"gbp.h"
+
+1495226656 
+
+1495155758 c:\users\a11511bcc023\desktop\projeto\pagina.h
+	"include.h"
+
+1495302017 "
+
+1495155642 c:\users\a11511bcc023\desktop\projeto\include.h
+	<stdio.h>
+	<stdlib.h>
+
+1495155706 c:\users\a11511bcc023\desktop\projeto\ged.h
+	"include.h"
+
+1495155798 c:\users\a11511bcc023\desktop\projeto\ga.h
+	"include.h"
+
+1495155726 c:\users\a11511bcc023\desktop\projeto\gbp.h
+	"include.h"
+
+1495226589 source:c:\users\a11511bcc023\desktop\projeto\include.c
+	"include.h"
+
+1495226590 source:c:\users\comppet\desktop\projeto\include.c
+	"include.h"
+
+1495155642 c:\users\comppet\desktop\projeto\include.h
+	<stdio.h>
+	<stdlib.h>
+
+1495226656 source:c:\users\comppet\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pagina.h"
+	"ged.h"
+	"ga.h"
+	"gbp.h"
+
+1495302140 c:\users\comppet\desktop\projeto\pagina.h
+	"include.h"
+
+1495301600 c:\users\comppet\desktop\projeto\ged.h
+	"include.h"
+
+1495303998 c:\users\comppet\desktop\projeto\ga.h
+	"include.h"
+
+1495302017 c:\users\comppet\desktop\projeto\gbp.h
+	"include.h"
+
+1495226590 source:/home/comppet/Desktop/projeto/include.c
+	"include.h"
+
+1495305512 /home/comppet/Desktop/projeto/include.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1495305492 source:/home/comppet/Desktop/projeto/main.c
+	"include.h"
+	"ged.h"
+	"ga.h"
+	"gbp.h"
+
+1495305494 /home/comppet/Desktop/projeto/pagina.h
+	"registro.h"
+
+1495305444 /home/comppet/Desktop/projeto/ged.h
+	"pagina.h"
+
+1495305494 /home/comppet/Desktop/projeto/ga.h
+
+1495305494 /home/comppet/Desktop/projeto/gbp.h
+
+1495305463 /home/comppet/Desktop/projeto/registro.h
+	"include.h"
+
